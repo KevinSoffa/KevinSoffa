@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com back-end e música
 - 🌱 Estudo Python e fremeworks(pandas, flask, selenium). HTML5 e CSS3
 - 📫 Contato: Kevinsoffa@gmail.com
-- 😄 Pronouns: Ele/Dele
+
 
 <div>
   <a href="https://github.com/KevinSoffa">
