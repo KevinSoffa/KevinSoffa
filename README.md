@@ -5,6 +5,7 @@
 - 🔭 Hoje trabalho com back-end e música
 - 🌱 Estudo Python-fremeworks(pandas, flask, selenium) e começando HTML5 e CSS3
 - 📫 Contato: Kevinsoffa@gmail.com
+- 
 ##
 
 <div>
