@@ -1,6 +1,6 @@
 <h1> Olá! Eu sou Kevin Soffa 👋 </h1>
 <a href="https://github.com/KevinSoffa">
-<img src="https://github.com/KevinSoffa/imagens/blob/main/python%20and%20horn%20transparente%20(1).png " width="150">
+<img src="https://github.com/KevinSoffa/imagens/blob/main/python%20and%20horn%20transparente%20(1).png " width="175">
 
 <body>
     <h2>Quem sou eu?</h2>
