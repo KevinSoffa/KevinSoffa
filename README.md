@@ -1,14 +1,17 @@
 <h1> Olá! Eu sou Kevin Soffa 👋 </h1>
-<a href="https://github.com/KevinSoffa">
-<img src="https://github.com/KevinSoffa/imagens/blob/main/python%20and%20horn%20transparente%20(1).png " width="175">
+
 
 <body>
     <h2>Quem sou eu?</h2>
     <h3> &#x1F40D <ins>Desenvolvedor Python Júnior e músico/Trompista &#x1F4EF </ins>  </h3>
-    <p>Meu nome é <strong>Kevin Soffa</strong>, tenho 25 anos sou professor de música, trompista profissional pela Orquestra de câmara da USP, <br> e atualmente estudande de           programação na linguagem Python e começando os conhecimentos em HTML5 e CSS3.  </p>
-    <p>Quero ingressar na área de T.I com a linguagem Python. No desenvolvimento de back end e front end, criando <strong>APIs REST, análise de dados, integração Python e Banco de     dados, criação e estruturação de sites, automatizadores de tarefas.</strong> Tudo disponível aqui no meu GitHub. </p>
+    <p>Meu nome é <strong>Kevin Soffa</strong>, tenho 25 anos sou professor de música, trompista profissional pela Orquestra de câmara da USP, <br> e atualmente estudande de           programação na linguagem Python e começando os conhecimentos em HTML5 e CSS3.</p>
+    <a href="https://github.com/KevinSoffa">
+    <img src="https://github.com/KevinSoffa/imagens/blob/main/python%20and%20horn%20transparente%20(1).png " width="175">
+        
+    <p>Principais desenvolvimentos: <strong>APIs REST, análise de dados, integração Python e Banco de dados, criação e estruturação de sites, automatizadores de tarefas.             </strong> Tudo disponível aqui no meu GitHub. </p>
     <p>Espero que goste, att Kevin Soffa. </p> 
   </body>
+    
 <div>
   <a href="https://github.com/KevinSoffa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinSoffa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
