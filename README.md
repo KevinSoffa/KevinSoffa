@@ -1,6 +1,4 @@
-<h1> Olá! Eu sou Kevin Soffa 👋 </h1>
-<img height="180em" src="https://github.com/KevinSoffa/imagens/blob/main/Emoji%20(2).png"/>
-
+<h1> Olá! Eu sou Kevin Soffa 👋</h1>
 
 <body>
     <h2>Quem sou eu?</h2>
