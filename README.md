@@ -25,7 +25,7 @@
   <h2>Contato</h2>
   <a href="https://www.instagram.com/kevinsoffa/" target="_blank" rel="external">
   <img height="25em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  @KevinSoffa<br>
+  @KevinSoffa<br></a>
   <img height="25em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   Kevinsoffa@gmail.com 
 </div>
