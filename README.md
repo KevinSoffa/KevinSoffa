@@ -23,7 +23,7 @@
   
 <div>
   <h2>Contato</h2>
-  <a href="https://github.com/KevinSoffa">
+  <a href="https://www.instagram.com/kevinsoffa/">
   <img height="25em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   @KevinSoffa<br>
   <img height="25em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
