@@ -3,8 +3,10 @@
 <body>
     <h2>Quem sou eu?</h2>
     <h3> &#x1F40D <ins>Desenvolvedor Python Júnior e músico/Trompista &#x1F4EF </ins>  </h3>
-    <p>Meu nome é <strong>Kevin Soffa</strong>, tenho 26 anos sou desenvolvedor Python júnior profissiona, professor de música, trompista, <br> e atualmente estudande de           programação nas linguagens; Python, JavaScript, HTML5 e CSS3.</p>       
-    <p>Principais desenvolvimentos: <strong>Desenvolvimento WEB, APIs REST, Microsserviços, análise de dados, integração Python com Banco de Dados SQL e NoSQL, automatizadores de tarefas.</strong> Tudo disponível aqui no meu GitHub. </p>
+    <p>Meu nome é <strong>Kevin Soffa</strong>, tenho 26 anos sou desenvolvedor Python júnior profissional, professor de música, trompista, <br> e atualmente estudande de           programação nas linguagens; Python, JavaScript, HTML5 e CSS3.</p>       
+    <p>Programador Python júnior, graduando em Análise e Desenvolvimento de Sistemas, técnico em
+desenvolvimento em programação em Python com frameworks; Django, Django Rest Framework, Flask, FastAPI,
+Pandas, Selenium. Conhecimento em JavaScript, HTML5 e CSS3. Utilização de GitHub e GitLab em códigos. </p>
     <p>Espero que goste, att Kevin Soffa. </p> 
   </body>
     
