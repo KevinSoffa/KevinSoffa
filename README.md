@@ -5,7 +5,7 @@
     <h3> &#x1F40D <ins>Desenvolvedor Python Júnior e músico/Trompista &#x1F4EF </ins>  </h3>
     <p>Desenvolvedor estudande de Análise e Desenvolvimento de Sistemas.      
     <p>Programador Python júnior, técnico em desenvolvimento em programação em Python com frameworks; Django, Django Rest Framework, Flask, FastAPI,
-Pandas, Selenium. Conhecimento em JavaScript, HTML5 e CSS3. Utilização de GitHub e GitLab em códigos. </p>
+Pandas, Selenium. Conhecimento em JavaScript, React, HTML5 e CSS3. Utilização de GitHub e GitLab em códigos. </p>
     <p>Espero que goste, att Kevin Soffa. </p> 
   </body>
     
