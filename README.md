@@ -2,7 +2,7 @@
 
 <body>
     <h2>Quem sou eu?</h2>
-    <h3> &#x1F40D <ins>Desenvolvedor Python Júnior e músico/Trompista &#x1F4EF </ins>  </h3>
+    <h3> &#x1F40D <ins>Desenvolvedor Python &#x1F4EF </ins>  </h3>
     <p>Desenvolvedor estudande de Análise e Desenvolvimento de Sistemas.      
     <p>Desenvolvedor Python, graduando em Análise e Desenvolvimento de Sistemas, técnico em desenvolvimento em programação avançada em Python com frameworks; Django, Django Rest Framework, Flask, FastAPI, Pandas, PySpark, Selenium e PyAutogui. Conhecimento em JavaScript, React, HTML5 e CSS3. Utilização de GitHub e GitLab em versionamento de códigos e criação de Branches. Experiência com Banco de Dados MySQL, PostgreSQL, Oracle e MongoDB. Criação de automações utilizando Selenium e Pyautogui. Conhecimento em serviços de Cloud com AWS. </p>
     <p>Espero que goste, att Kevin Soffa. </p> 
