@@ -4,7 +4,9 @@
     <h2>Quem sou eu?</h2>
     <h3> &#x1F40D <ins>Desenvolvedor Python &#x1F4EF </ins>  </h3>
     <p>Desenvolvedor estudande de Análise e Desenvolvimento de Sistemas.      
-    <p>Desenvolvedor Python, graduando em Análise e Desenvolvimento de Sistemas, técnico em desenvolvimento em programação avançada em Python com frameworks; Django, Django Rest Framework, Flask, FastAPI, Pandas, PySpark, Selenium e PyAutogui. Conhecimento em JavaScript, React, HTML5 e CSS3. Utilização de GitHub e GitLab em versionamento de códigos e criação de Branches. Experiência com Banco de Dados MySQL, PostgreSQL, Oracle e MongoDB. Criação de automações utilizando Selenium e Pyautogui. Conhecimento em serviços de Cloud com AWS. </p>
+    <p>Desenvolvedor Python em formação, cursando Análise e Desenvolvimento de Sistemas, com especialização técnica em programação avançada em Python, utilizando frameworks como Django, Django Rest Framework, Flask, FastAPI, Pandas, PySpark, Selenium e PyAutogui. Além disso, possuo habilidades em JavaScript, Node.JS, React, HTML5 e CSS3.
+Tenho experiência prática no uso de GitHub, GitLab e AzureDevOps para versionamento de códigos, incluindo a criação de Branches. No âmbito de bancos de dados, trabalhei com MySQL, PostgreSQL, Oracle e MongoDB. Destaco minha competência na criação de automações por meio das ferramentas Selenium e Pyautogui.
+Possuo conhecimentos em Big Data, utilizando a plataforma Azure, com experiência em DataBricks, DataFactore e Spark. Estou comprometido em aprimorar minhas habilidades e contribuir de maneira eficaz para projetos desafiadores.</p>
     <p>Espero que goste, att Kevin Soffa. </p> 
   </body>
     
