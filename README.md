@@ -108,6 +108,6 @@
 <h2 align="left">Portfolio 🌎<br><br>https://bit.ly/kevinsoffa2</h2>
 
 
-<img src="https://raw.githubusercontent.com/kevinsoffa/kevinsoffa/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 ###
